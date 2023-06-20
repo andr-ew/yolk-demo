@@ -51,6 +51,7 @@ the arqueggiator is a mix between an arpeggiator & a sequencer.
 - **hold single key:**
    - (repeated key): remove repeat
    - (active key): remove note
+
 **snapshots:** 6 snapshots to store & recall arquences. use them like this:
 
 - **double tap:** write to slot
