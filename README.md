@@ -12,10 +12,19 @@ earthsea-like demo, configurable scales/tuning, pattern recording & pattern bank
  
 ## grid
 
-### main
+### mode: poly & mono
 
-![diagram of the grid interface. text description forthcoming](/lib/doc/grid_main.png)
+in the first two modes, grid is an earthsea-like grid keyboard, polyphonic or monophonic.
 
-### K1 (hold)
+![diagram of the grid interface. text description forthcoming](/lib/doc/grid_poly_mono.png)
+
+
+
+### mode: arqueggiator
+
+![diagram of the grid interface. text description forthcoming](/lib/doc/grid_arq.png)
+
+
+### K1 (hold): edit tuning
 
 ![diagram of the grid interface. text description forthcoming](/lib/doc/grid_scale.png)
